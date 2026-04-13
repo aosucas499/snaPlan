@@ -4,7 +4,7 @@ Una web app para preparar y ver cada mañana la programación diaria propia que 
 ## ✨ Funcionalidades Clave
 * 📱 **Interfaz Adaptada**: Diseñada para usarse cómodamente desde el móvil en el aula.
 * 📝 **Diario de Clase**: Guarda actividades y recursos para cada sesión.
-* 📄 **Generador de Docs**: Crea un documento de Google Docs con la programación del día automáticamente.
+* 📄 **Generador de Docs**: Crea un documento de Google Docs con la programación del día automáticamente y compartir con Jefatura.
 * 🟢 **WhatsApp**: Envía el resumen de la sesión a quien necesites con un botón.
 
 ---
