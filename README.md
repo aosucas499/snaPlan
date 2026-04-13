@@ -4,11 +4,9 @@ Una web app para preparar y ver cada mañana la programación diaria propia que 
 <p align="center">
   <img src="https://github.com/aosucas499/snaPlan/blob/main/pictures/Screenshot_2026-04-13-23-21-07-068_com.brave.browser-edit.jpg?raw=true" width="280" title="Vista previa SnaPlan">
 </p><p align="center">
-  <img src="https://github.com/aosucas499/snaPlan/blob/main/pictures/Screenshot_2026-04-13-23-21-07-068_com.brave.browser-edit.jpg?raw=true" width="280" title="Vista previa SnaPlan">
-</p>
 
 ## Instrucciones
-Consulta la [WIKI](https://github.com/aosucas499/snaPlan/wiki) para saber cómo usar esta hoja.
+Consulta la [WIKI](https://github.com/aosucas499/snaPlan/wiki) para saber cómo usar esta webapp.
 
 Si este proyecto te ayuda, puedes invitarme a un café.
 If this project helps you,  you can give me a cup of coffee .
