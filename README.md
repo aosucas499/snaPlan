@@ -1,7 +1,14 @@
 # SnaPlan
 Una web app para preparar y ver cada mañana la programación diaria propia que usamos en un centro educativo.
 
-Capacidad de compartir la programación diaria en texto a través de Whatsapp y Google Docs.
+## ✨ Funcionalidades Clave
+* 📱 **Interfaz Adaptada**: Diseñada para usarse cómodamente desde el móvil en el aula.
+* 📝 **Diario de Clase**: Guarda actividades y recursos para cada sesión.
+* 📄 **Generador de Docs**: Crea un documento de Google Docs con la programación del día automáticamente.
+* 🟢 **WhatsApp**: Envía el resumen de la sesión a quien necesites con un botón.
+
+---
+
 <p align="center">
   <img src="https://github.com/aosucas499/snaPlan/blob/main/pictures/Screenshot_2026-04-13-23-21-07-068_com.brave.browser-edit.jpg?raw=true" width="280" title="Vista previa SnaPlan">
 </p><p align="center">
@@ -16,3 +23,4 @@ If this project helps you,  you can give me a cup of coffee .
 ## Licencia  
 Este proyecto está licenciado bajo la [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es) (CC BY-NC-SA 4.0).  
 
+*Desarrollado para simplificar la burocracia docente.* 🚀
