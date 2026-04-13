@@ -14,7 +14,7 @@ Una web app para preparar y ver cada mañana la programación diaria propia que 
 </p><p align="center">
 
 ## Instrucciones
-Consulta la [WIKI](https://github.com/aosucas499/snaPlan/wiki) para saber cómo usar esta webapp.
+Consulta la [WIKI](https://github.com/aosucas499/snaPlan/wiki) para saber cómo usar e instalar esta webapp.
 
 Si este proyecto te ayuda, puedes invitarme a un café.
 If this project helps you,  you can give me a cup of coffee .
