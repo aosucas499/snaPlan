@@ -1,4 +1,4 @@
-# SnaPlan
+# snaPlan
 Una web app para preparar y ver cada mañana la programación diaria propia que usamos en un centro educativo.
 
 ## ✨ Funcionalidades Clave
