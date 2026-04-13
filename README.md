@@ -1,6 +1,7 @@
 # SnaPlan
 Una web app para preparar y ver cada mañana la programación diaria propia que usamos en un centro educativo.
 
+Capacidad de compartir la programación diaria en texto a través de Whatsapp y Google Docs.
 <p align="center">
   <img src="https://github.com/aosucas499/snaPlan/blob/main/pictures/Screenshot_2026-04-13-23-21-07-068_com.brave.browser-edit.jpg?raw=true" width="280" title="Vista previa SnaPlan">
 </p><p align="center">
